@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dmbjz (4)" />
+        <module name="dmbjz (3)" />
+        <module name="RabbitMQBoot-DelayQueue" />
+        <module name="RabbitMQ-ConfirmSelect" />
+        <module name="RabbitMQBoot-RabbitAdmin" />
+        <module name="RabbitMQ-PriorityQueue" />
+        <module name="dmbjz (2)" />
+        <module name="RabbitMQ-QosLimiting" />
+        <module name="dmbjz (1)" />
+        <module name="RabbitMQ-Topic" />
+        <module name="RabbitMQ-Fanout" />
+        <module name="RabbitMQBoot-RabbitTemplate" />
+        <module name="RabbitMQ-BasicAck" />
+        <module name="RabbitMQ-HelloWord" />
+        <module name="RabbitMQ-WorkQueue" />
+        <module name="RabbitMQBoot-HomeWork" />
+        <module name="RabbitMQBoot-CustomListener" />
+        <module name="RabbitMQ-Direct" />
+        <module name="RabbitMQ-DeadMessage" />
+        <module name="RabbitMQ-DefaultConsumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dmbjz" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="RabbitMQBoot-CustomListener" options="-parameters" />
+      <module name="RabbitMQBoot-DelayQueue" options="-parameters" />
+      <module name="RabbitMQBoot-HomeWork" options="-parameters" />
+      <module name="RabbitMQBoot-RabbitAdmin" options="-parameters" />
+      <module name="RabbitMQBoot-RabbitTemplate" options="-parameters" />
+      <module name="dmbjz (1)" options="-parameters" />
+      <module name="dmbjz (2)" options="-parameters" />
+      <module name="dmbjz (3)" options="-parameters" />
+      <module name="dmbjz (4)" options="-parameters" />
+    </option>
+  </component>
+</project>

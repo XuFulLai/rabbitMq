@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/RabbitMQ-ReturnListener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQBoot-BackUpExchange/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQBoot-ConfirmCallback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQBoot-CustomListener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQBoot-DelayQueue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQBoot-HomeWork/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQBoot-RabbitAdmin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQBoot-RabbitTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQBoot-ReturnsCallback/src/main/java" charset="UTF-8" />
+  </component>
+</project>

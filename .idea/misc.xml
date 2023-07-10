@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/RabbitMQ-Topic/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Direct/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Fanout/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-BasicAck/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-HelloWord/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-WorkQueue/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-DeadMessage/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-QosLimiting/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQBoot-HomeWork/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-ConfirmSelect/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-PriorityQueue/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-ReturnListener/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQBoot-DelayQueue/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-DefaultConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQBoot-RabbitAdmin/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQBoot-BackUpExchange/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQBoot-CustomListener/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQBoot-RabbitTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQBoot-ConfirmCallback/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQBoot-ReturnsCallback/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
